@@ -1,0 +1,32 @@
+.topbar {
+    height: 50px;
+    width: 100%;
+    background-color: white;
+    margin-top: 64px;
+    position: fixed !important;
+    z-index: 100;
+}
+
+.menu-bar {
+    margin-left: 37px;
+}
+
+.explore {
+}
+
+.trending {
+}
+
+.menu-block {
+    display: inline-block;
+    width: 90px;
+    margin: 0 10px;
+    text-align: center;
+    padding: 10px;
+    font-size: larger;
+    color: black;
+}
+
+.active {
+    border-bottom: #1792D9 3px solid;
+}

@@ -1,0 +1,34 @@
+.logo span {
+    color: white;
+    font-size: 34px;
+    margin-left: 30px;
+    font-family: cursive;
+}
+
+.logo {
+    display: inline-block;
+}
+
+.tool {
+    float: right;
+    display: inline-block;
+    margin-right: 38px;
+}
+
+.tool i {
+    top: 8px;
+    position: relative;
+    font-size: 37px;
+    color: white;
+    right: 7px;
+}
+
+.tool * {
+    margin: 0 5px;
+}
+
+.search {
+    float: right;
+    display: inline-block;
+    margin-right: 20px;
+}
